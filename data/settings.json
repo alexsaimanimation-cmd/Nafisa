@@ -11,5 +11,31 @@
         "https://www.bing.com"
     ],
     "unlock_duration_minutes": 60,
-    "unlock_countdown_seconds": 8
+    "unlock_countdown_seconds": 8,
+    "categories": [
+        "Viral",
+        "Sexy",
+        "Stepsister",
+        "Bangla Movie",
+        "Desi",
+        "Interracial"
+    ],
+    "languages": [
+        "Bangla",
+        "English",
+        "Hindi"
+    ],
+    "countries": [
+        "Bangladesh",
+        "India",
+        "USA",
+        "UK",
+        "Canada"
+    ],
+    "actors": [
+        "Streaming",
+        "Download",
+        "Preview",
+        "Offline"
+    ]
 }
